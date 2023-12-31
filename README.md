@@ -1,6 +1,6 @@
 # Wikipedia Summarizer 💭
 
-![Wikipedia Summarizer](![wikipedia](https://github.com/iamA333/wikipedia-summarizer/assets/67963799/ced258cc-d194-471b-9393-188d5c2ef85a)
+![Wikipedia Summarizer](https://github.com/iamA333/wikipedia-summarizer/assets/67963799/ced258cc-d194-471b-9393-188d5c2ef85a)
 
 ## Overview
 
